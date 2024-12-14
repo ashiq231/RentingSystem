@@ -1,0 +1,5 @@
+Username: 1
+Password: 1
+Balance: $0.0
+Currently Rented Products:
+- BOOK
